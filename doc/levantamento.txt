@@ -1,0 +1,12 @@
+Reunião 21/09/2018 20h
+
+Paulinha/Giba/Ped
+
+Levantamento de requisitos - fase I
+
+1. Perfis de usuários (Home contextual)
+2. Dados dos animais
+3. Dispositivos de acesso
+4. APIs
+5. Design
+6. Manutenção mensal / Licença de uso
