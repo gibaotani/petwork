@@ -4,9 +4,26 @@ Paulinha/Giba/Ped
 
 Levantamento de requisitos - fase I
 
+Englobar processo seletivo desde o contato até a contratacao
+
 1. Perfis de usuários (Home contextual)
-2. Dados dos animais
+   a. Empresas - CNPJ
+   b. Candidatos - CPF
+2. Cursos
+   a. Adestramento
+   b. Monitoria
+   c. Comunicação intuitiva
 3. Dispositivos de acesso
+   a. website
+   b. celular (navegador)
 4. APIs
+   a. login pelo fb/g+
+   b. empregos facebook
 5. Design
+   a. Maddi vai enviar o layout
 6. Manutenção mensal / Licença de uso
+
+Pacotes
+  Pacote grátis de abertura de vaga
+  Contratação direta com o Candidatos
+  Maior visualização
