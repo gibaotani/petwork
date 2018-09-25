@@ -25,5 +25,5 @@ Englobar processo seletivo desde o contato até a contratacao
 
 Pacotes
   Pacote grátis de abertura de vaga
-  Contratação direta com o Candidatos
+    Contratação direta com o Candidatos
   Maior visualização
