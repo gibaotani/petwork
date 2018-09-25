@@ -27,3 +27,16 @@ Pacotes
   Pacote grátis de abertura de vaga
     Contratação direta com o Candidatos
   Maior visualização
+
+Formulário
+
+. cargo candidato
+. experiência
+. cargos de interesse
+. formação acadêmica
+. disponibilidade para mudar
+
+. áreas de interesse
+. cursos na área?
+
+. CV
